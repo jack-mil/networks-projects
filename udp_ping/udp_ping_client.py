@@ -17,7 +17,7 @@ Limitations: IP and Port have to be specified in the client program
 
 Development Computer: Lenovo P73, RPI 4
 Operating System: Windows 10 Pro, Manjaro Linux, Arch Linux (aarch64, RPI 4)
-Compiler: Python 3.9.7
+Interpretor: CPython 3.9.7
 Integrated Development Environment (IDE): Visual Studio Code
 Operational Status: Functional
 """
